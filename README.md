@@ -4,7 +4,6 @@ This document outlines the formal decision making processes which run the CNOE p
 
 ## Principles
 
-Mostly Borrowed from https://github.com/kubernetes/community/blob/master/governance.md:
 - Open: See CONTRIBUTING.md
 - Welcoming and respectful: See Code of Conduct, below.
 - Transparent and accessible: Work and collaboration should be done in public. See SIG governance, below.
@@ -13,25 +12,42 @@ Mostly Borrowed from https://github.com/kubernetes/community/blob/master/governa
 
 ## Membership
 
-Types of members
-- Users
-- "Core" organizations
-- Do we need to differentiate "Cloud Provider"?
+CNOE is governed by a set of "core" member organizations. These member organizations each nominate a representative to the steering committee which is the final decision making body for CNOE. Member additions can be made by unanimous approval by the steering committee. Member removals can be made by (unanimous - 1) approval by the steering commitee.
 
-### Joining
-
-- How can users join? Slack?
-- New core members can be added by unanimous vote of existing core members. As part of our first milestone we hope to better define core member criteria and processes so we can open up the ability for additional core member organizations
+Core Member Organizations:
+- Adobe
+- Amazon
+- Autodesk
+- Nike
+- Salesforce
 
 ## Steering Committee
 
-The steering committee consists of one member from each of the core member companies. Whether we differentiate "cloud providers" impacts this.
+The steering committee consists of one member from each of the core member organizations. Decisions are made by majority vote of the overall committee membership unless stated otherwise, such as is the case for membership changes.
 
-The steering committee is the final decision maker for CNOE and decisions are made by majority vote.
+### Charter
+
+1. Define the mission and vision of the CNOE project.
+2. Manage core membership.
+3. Define and evolve CNOE governance.
+4. Manage and delegate ownership of access to CNOE resources.
+5. Handle reports of Code of Conduct violations in a confidential manner.
+6. Act as the final escalation point for any disputes or decisions within the CNOE project.
+
+Changes
 
 ## Working Groups
 
 Over time we will formalize our working group proceses, pulling from standard OSS processes such at Kubernetes' SIGs. In the meanwhile, the steering committee is responsible for managing the working groups CNOE consists of.
 
+## Contact
+
+Issues, CoC violations, and interest can be directed to the steering commitee by emailing cnoe-steering@googlegroups.com.
+
 ## Code of Conduct
 
+See [Code of Conduct](CODE-OF-CONDUCT.md)
+
+---
+
+Portions of this document are adapted from the Istio Steering Committee documentation, and the Kubernetes Steering Committee, both of which are licensed under the Apache License 2.0. Other portions are adapted from the Knative Steering Committee documentation which 
