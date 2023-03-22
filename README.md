@@ -34,8 +34,6 @@ The steering committee consists of one member from each of the core member organ
 5. Handle reports of Code of Conduct violations in a confidential manner.
 6. Act as the final escalation point for any disputes or decisions within the CNOE project.
 
-Changes
-
 ## Working Groups
 
 Over time we will formalize our working group proceses, pulling from standard OSS processes such at Kubernetes' SIGs. In the meanwhile, the steering committee is responsible for managing the working groups CNOE consists of.
