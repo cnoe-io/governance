@@ -7,4 +7,4 @@ Expectations for how CNOE members operate and collaborate before publicly "launc
 * All code contributions will be contributed under an Apache 2.0 License.
 * Code contributions will reside in repositories within the cnoe-io github organization.
 * Only individuals from member companies as decided by the steering committee will have access to code contributions before publicly launching.
-* Changes to these expectations will be jointly agreed to by Amazon and Autodesk.
+* Changes to these expectations will be approved by the steering committee.
