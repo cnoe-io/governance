@@ -20,6 +20,7 @@ Core Member Organizations:
 - Autodesk
 - Nike
 - Salesforce
+- Twilio
 
 ## Steering Committee
 
