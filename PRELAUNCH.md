@@ -2,7 +2,7 @@
 
 Expectations for how CNOE’s Core Member Organizations operate and collaborate before publicly "launching" the initiative for building internal developer platforms based on open source:
 
-Adobe Incorporated, Amazon Incorporated, Autodesk Incorporated, Nike Incorporated, Salesforce Incorporated, Twillio Incorporated,  (“Core Member Organizations”) acknowledge and agree:
+(“Core Member Organizations”) acknowledge and agree:
 
 * “Publicly launching” refers to making repositories under the cnoe-io github organization publicly accessible.
 * Public launch will not occur until agreed to by all Steering Committee members. Steering Committee consists of one member from each of the Core Member Organizations.
