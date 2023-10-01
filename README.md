@@ -46,6 +46,16 @@ Issues, CoC violations, and interest can be directed to the steering commitee by
 
 See [Code of Conduct](CODE-OF-CONDUCT.md)
 
+## Antitrust Policy
+
+See [Antitrust Policy](ANTITRUST-POLICY.md)
+
 ---
 
-Portions of this document are adapted from the Istio Steering Committee documentation, and the Kubernetes Steering Committee, both of which are licensed under the Apache License 2.0. Other portions are adapted from the Knative Steering Committee documentation which 
+*Portions of this document and the antitrust policy document are adapted from the 
+Istio Steering Committee documentation, and the Kubernetes Steering Committee, 
+both of which are licensed under the Apache License 2.0. Other portions are 
+adapted from the Knative Steering Committee documentation which is licensed under the Creative Commons Attribution 4.0.  Portions of the antitrust document was
+adapted from the linux foundations antitrust policy which is licensed under the
+Create Commons Attribution 3.0.*
+
