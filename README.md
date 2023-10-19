@@ -20,6 +20,7 @@ Core Member Organizations:
 - Autodesk
 - Salesforce
 - Twilio
+- Intuit
 
 ## Steering Committee
 
