@@ -47,6 +47,14 @@ Issues, CoC violations, and interest can be directed to the steering commitee by
 
 See [Code of Conduct](CODE-OF-CONDUCT.md)
 
+## Trademark Protection and Usage
+
+The trademarks, service marks, trade dress and other brand features (“Trademarks”) of each Member are owned by such Member and the use of the such Trademarks shall inure to the benefit of the respective owner. Each use of such Trademarks shall be by advanced approval of the trademark owner.
+
+## Antitrust Policy
+
+See [Antitrust Policy](Antitrust-Policy.md)
+
 ---
 
 Portions of this document are adapted from the Istio Steering Committee documentation, and the Kubernetes Steering Committee, both of which are licensed under the Apache License 2.0. Other portions are adapted from the Knative Steering Committee documentation which 
