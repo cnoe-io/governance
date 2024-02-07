@@ -18,6 +18,7 @@ Core Member Organizations:
 - Adobe
 - Amazon
 - Autodesk
+- Nike
 - Salesforce
 - Twilio
 - Intuit
