@@ -11,7 +11,7 @@ SIG Idpbuilder is responsible for developing common tooling for creating referen
 
 #### Code, Binaries and Services
 
-- idpbuilder project
+- [idpbuilder project](https://github.com/cnoe-io/idpbuilder)
 - related packaging tooling
 - suporting libraries for idpbuilder
 

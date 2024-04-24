@@ -17,7 +17,11 @@ CNOE Special Interest Groups (SIGs) generally align with the scope, purpose, and
 - Ensure contributing instructions (CONTRIBUTING.md) are defined in the SIGs
   folder located in the community repo.
 
-## Roles
+## SIG Approval
+
+Approval of a SIG charter (and therefore creation of a SIG) is made by the CNOE Steering committee following their standard decision making processes.
+
+## SIG Roles
 
 As we are a smaller community than Kubernetes, we have simplified the Roles for SIG and their subprojects. We also are folding in [community roles](https://github.com/kubernetes/community/blob/master/community-membership.md) to SIGs and their subprojects.
 
