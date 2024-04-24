@@ -6,10 +6,6 @@ CNOE Special Interest Groups (SIGs) generally align with the scope, purpose, and
 
 As we are a smaller community than Kubernetes, we have simplified the Roles for SIG and their subprojects. We also are folding in [community roles](https://github.com/kubernetes/community/blob/master/community-membership.md) to SIGs and their subprojects.
 
-### Leads
-
-SIG Leads are in line with Kubernetes SIG leads.
-
 
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
