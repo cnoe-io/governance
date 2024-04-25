@@ -1,11 +1,11 @@
-# SIG IDPBuilder
+# SIG IDP Builders
 
 This charter adheres to the conventions described in the [Kubernetes Charter README] and uses
 the Roles and Organization Management outlined in [sig-governance].
 
 ## Scope
 
-SIG Idpbuilder is responsible for developing common tooling for creating reference CNOE internal developer platforms.
+SIG IDP Builder is responsible for developing common tooling for creating reference CNOE internal developer platforms.
 
 ### In scope
 
