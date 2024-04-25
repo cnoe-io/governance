@@ -38,7 +38,9 @@ The steering committee consists of one member from each of the core member organ
 
 ## Working Groups
 
-Over time we will formalize our working group proceses, pulling from standard OSS processes such at Kubernetes' SIGs. In the meanwhile, the steering committee is responsible for managing the working groups CNOE consists of.
+For information about the working group governance process, see [Working-Group-Governance.md](Working-Group-Governance.md).
+
+ - [IDP Builders](sigs/idp-builders/charter.md)
 
 ## Contact
 
