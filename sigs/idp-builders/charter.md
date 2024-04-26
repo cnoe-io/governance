@@ -5,7 +5,7 @@ the Roles and Organization Management outlined in [sig-governance].
 
 ## Scope
 
-SIG IDP Builder is responsible for developing common tooling for creating reference CNOE internal developer platforms.
+SIG IDP Builders is responsible for developing common tooling for creating reference CNOE internal developer platforms.
 
 ### In scope
 
@@ -13,7 +13,7 @@ SIG IDP Builder is responsible for developing common tooling for creating refere
 
 - [idpbuilder project](https://github.com/cnoe-io/idpbuilder)
 - related packaging tooling
-- suporting libraries for idpbuilder
+- supporting libraries for idpbuilder
 
 #### Cross-cutting and Externally Facing Processes
 
