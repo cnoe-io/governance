@@ -22,6 +22,7 @@ Core Member Organizations:
 - Salesforce
 - Twilio
 - Intuit
+- Cisco
 
 ## Steering Committee
 
