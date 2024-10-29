@@ -53,7 +53,7 @@ See [Code of Conduct](CODE-OF-CONDUCT.md)
 
 ## Trademark Protection and Usage
 
-The trademarks, service marks, trade dress and other brand features (“Trademarks”) of each Member are owned by such Member and the use of the such Trademarks shall inure to the benefit of the respective owner. Each use of such Trademarks shall be by advanced approval of the trademark owner.
+The trademarks, service marks, trade dress and other brand features (“Trademarks”) of each Member are owned by such Member and the use of the such Trademarks shall inure to the benefit of the respective owner. Each use of such Trademarks shall be by advanced approval of the trademark owner. Members can revoke the permission for use of their Trademarks at any time by notifying the project Steering Commitee.
 
 ## Antitrust Policy
 
