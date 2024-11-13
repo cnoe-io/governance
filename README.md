@@ -23,6 +23,7 @@ Core Member Organizations:
 - Twilio
 - Intuit
 - Cisco
+- Siemens
 
 ## Steering Committee
 
