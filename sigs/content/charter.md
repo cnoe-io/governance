@@ -16,3 +16,13 @@ Content within the code repositories of our tools, such as in-repository documen
 # Roles and Organization Management
 
 ## Leadership
+
+# Process
+
+## Meetings
+
+TBD
+
+## Communication
+
+Communication primarily occurs in the [#cnoe-initerest](https://cloud-native.slack.com/archives/C05TN9WFN5S) channel on CNCF slack.
