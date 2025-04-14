@@ -40,7 +40,7 @@ The steering committee consists of one member from each of the core member organ
 
 ## Working Groups
 
-For information about the working group governance process, see [Working-Group-Governance.md](Working-Group-Governance.md).
+For information about the working group governance process, see [SIGs Documentation](sigs/README.md).
 
  - [IDP Builders](sigs/idp-builders/charter.md)
 
