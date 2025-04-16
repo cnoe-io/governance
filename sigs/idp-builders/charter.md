@@ -26,7 +26,7 @@ SIG IDP Builders is responsible for developing common tooling, patterns, and pra
 ### Roles
 
 - owners:
-  - Manabu McCloskey (@nabuskey)
+  - Pankaj Walke (@punkwalker)
 - approvers:
   - Greg Haynes (@greghaynes)
   - Jesse Sanford (@jessesanford)
