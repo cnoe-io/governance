@@ -60,5 +60,5 @@ SIG IDP Builders is responsible for developing common tooling, patterns, and pra
 
 # Out of scope
 
-- Defining what is vs is not considered CNOE or "core" compoents of CNOE.
+- Defining what is vs is not considered CNOE or "core" components of CNOE.
 - Documentation for projects within other SIGs
