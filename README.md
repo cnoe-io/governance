@@ -42,7 +42,8 @@ The steering committee consists of one member from each of the core member organ
 
 For information about the working group governance process, see [SIGs Documentation](sigs/README.md).
 
- - [IDP Builders](sigs/idp-builders/charter.md)
+ - [IDP Builders](sigs/idp-builders/README.md)
+ - [Agentic AI](sigs/agentic-ai/README.md)
 
 ## Contact
 
