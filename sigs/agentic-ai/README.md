@@ -14,13 +14,14 @@ We enhance platform engineering and SRE teams by using agentic AI to streamline 
 
 ### Meetings
 
-- [Google Calendar Link](https://calendar.google.com/calendar/u/0/embed?src=064a2adfce866ccb02e61663a09f99147f22f06374e7a8994066bdc81e066986@group.calendar.google.com&ctz=America/Los_Angeles)
+- [Download iCalendar](cnoe-agentic-ai-meeting-invite.ics)
+- [CNOE Google Calendar Link](https://calendar.google.com/calendar/u/0/embed?src=064a2adfce866ccb02e61663a09f99147f22f06374e7a8994066bdc81e066986@group.calendar.google.com&ctz=America/Los_Angeles)
 
 - **SIG Meetup Every Thursday**
     - 18:00 – 19:00 (Central European Time)
     - 17:00 – 18:00 (London)
     - 09:00 – 10:00 (Pacific Standard Time)
-    - [Google Meet Link](https://meet.google.com/ahw-gxie-bwz)
+    - [Webex Meeting Link](https://go.webex.com/go/j.php?MTID=m4ac3bd42c94462109cb75032d231e892), Password: ZPbuksM326q (97285763 when dialing from a phone or video system)
 
 ### Slack
 - [Join CNCF Slack Team](https://communityinviter.com/apps/cloud-native/cncf), if you are already not a member.
