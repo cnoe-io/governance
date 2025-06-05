@@ -21,7 +21,7 @@ We enhance platform engineering and SRE teams by using agentic AI to streamline 
     - 18:00 – 19:00 (Central European Time)
     - 17:00 – 18:00 (London)
     - 09:00 – 10:00 (Pacific Standard Time)
-    - [Webex Meeting Link](https://go.webex.com/go/j.php?MTID=m4ac3bd42c94462109cb75032d231e892), Password: ZPbuksM326q (97285763 when dialing from a phone or video system)
+    - [Webex Meeting Link](https://go.webex.com/meet/cnoe)
 
 ### Slack
 - [Join CNCF Slack Team](https://communityinviter.com/apps/cloud-native/cncf), if you are already not a member.
