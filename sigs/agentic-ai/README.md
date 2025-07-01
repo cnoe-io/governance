@@ -2,6 +2,8 @@
 
 This charter adheres to the conventions described in the [SIG Readme](../README.md).
 
+> Main repo: https://github.com/cnoe-io/ai-platform-engineering/tree/main
+
 ### Vision
 
 Empower each member of the CNOE community with a personalized, multi-agent system (MAS) to meet their unique enterprise needs.
